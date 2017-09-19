@@ -33,7 +33,7 @@ body,
 <body>
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1BLziJhXfubOBlcpYRET_ujyIza5wf8A"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=API_Key_Here"></script>
 <div id="map"></div>
 <script>
 
