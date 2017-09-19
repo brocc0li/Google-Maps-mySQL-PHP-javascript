@@ -17,5 +17,7 @@ Click and mark add functions (admin panel)
 
 
 
+**https://github.com/googlemaps/js-marker-clusterer**
+
 
 **Please do not contact me about the script.**
