@@ -4,6 +4,7 @@
 **Known Problems:**
 
 Address only shows one address. 
+Only one IMG is showing.
 
 
 
